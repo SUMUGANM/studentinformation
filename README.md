@@ -1,9 +1,7 @@
 # sms
-Student Management System With Php
+Student Management System With SQLite
 
 This is the basic project on  Student Mangement System,
-
-i have developed this project when my collage professor hasn't think to start the lecture on php.
 
 # To use this project.
 
